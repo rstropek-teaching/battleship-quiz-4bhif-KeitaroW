@@ -9,7 +9,16 @@
   "author": "Rainer Stropek",
   "license": "MIT",
   "dependencies": {
+    "browser-sync": "^2.18.13",
+    "jquery": "^3.2.1"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstropek-teaching/battleship-quiz-4bhif-KeitaroW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rstropek-teaching/battleship-quiz-4bhif-KeitaroW/issues"
+  },
+  "homepage": "https://github.com/rstropek-teaching/battleship-quiz-4bhif-KeitaroW#readme"
 }
